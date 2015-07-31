@@ -1,0 +1,13 @@
+{
+  "name": "ASP.NET",
+  "private": true,
+  "dependencies": {
+    "core.js": "latest", 
+    "requirejs": "latest",
+    "underscore": "latest",
+    "aurelia-framework": "latest",
+    "aurelia-router": "latest",
+    "aurelia-bootstrapper": "latest",
+    "aurelia-metadata": "latest"
+  }
+}

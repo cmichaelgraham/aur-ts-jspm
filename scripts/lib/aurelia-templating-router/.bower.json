@@ -1,0 +1,35 @@
+{
+  "name": "aurelia-templating-router",
+  "version": "0.14.1",
+  "description": "An implementation of the RouteLoader interface for use with the router module. Also contains a custom element that allows the templating engine to display the current route.",
+  "keywords": [
+    "aurelia",
+    "templating",
+    "html"
+  ],
+  "homepage": "http://aurelia.io",
+  "license": "MIT",
+  "authors": [
+    "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aurelia/templating-router"
+  },
+  "dependencies": {
+    "aurelia-dependency-injection": "^0.9.1",
+    "aurelia-metadata": "^0.7.1",
+    "aurelia-path": "^0.8.1",
+    "aurelia-router": "^0.10.3",
+    "aurelia-templating": "^0.13.12"
+  },
+  "_release": "0.14.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.14.1",
+    "commit": "d4b03703a740e1f7a4349b51d2bffad640b5117a"
+  },
+  "_source": "git://github.com/aurelia/templating-router.git",
+  "_target": "^0.14.1",
+  "_originalSource": "aurelia-templating-router"
+}

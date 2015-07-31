@@ -1,0 +1,23 @@
+{
+  "name": "aurelia-loader-default",
+  "version": "0.9.1",
+  "description": "A default implementation of the loader interface compatible with system.js and require-based loaders.",
+  "keywords": [
+    "aurelia",
+    "loader",
+    "modules"
+  ],
+  "homepage": "http://aurelia.io",
+  "license": "MIT",
+  "authors": [
+    "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aurelia/loader-default"
+  },
+  "dependencies": {
+    "aurelia-loader": "^0.8.3",
+    "aurelia-metadata": "^0.7.1"
+  }
+}

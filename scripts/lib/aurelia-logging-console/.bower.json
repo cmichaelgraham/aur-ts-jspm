@@ -1,0 +1,27 @@
+{
+  "name": "aurelia-logging-console",
+  "version": "0.6.1",
+  "description": "A console log appender for the Aurelia logging library.",
+  "keywords": [
+    "aurelia",
+    "logging"
+  ],
+  "homepage": "http://aurelia.io",
+  "license": "MIT",
+  "authors": [
+    "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aurelia/logging-console"
+  },
+  "_release": "0.6.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.6.1",
+    "commit": "2acc3fc07a3340c0c9c6a013968c13848480cc5d"
+  },
+  "_source": "git://github.com/aurelia/logging-console.git",
+  "_target": "^0.6.1",
+  "_originalSource": "aurelia-logging-console"
+}

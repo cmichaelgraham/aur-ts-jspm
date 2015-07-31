@@ -1,0 +1,27 @@
+{
+  "name": "aurelia-logging",
+  "version": "0.6.2",
+  "description": "A minimal but effective logging mechanism with support for log levels and pluggable log appenders.",
+  "keywords": [
+    "aurelia",
+    "logging"
+  ],
+  "homepage": "http://aurelia.io",
+  "license": "MIT",
+  "authors": [
+    "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aurelia/logging"
+  },
+  "_release": "0.6.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.6.2",
+    "commit": "adce450dcd2041f366db0559cfcd9eedcf30f749"
+  },
+  "_source": "git://github.com/aurelia/logging.git",
+  "_target": "^0.6.2",
+  "_originalSource": "aurelia-logging"
+}

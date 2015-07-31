@@ -1,0 +1,28 @@
+{
+  "name": "aurelia-html-template-element",
+  "version": "0.2.0",
+  "description": "A polyfill for the HTMLTemplateElement extracted and decoupled from Polymer.",
+  "keywords": [
+    "aurelia",
+    "HTMLTemplateElement",
+    "polyfill"
+  ],
+  "homepage": "http://aurelia.io",
+  "license": "MIT",
+  "authors": [
+    "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aurelia/html-template-element"
+  },
+  "_release": "0.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.2.0",
+    "commit": "1a284e224545f08fac5d0733e473f020f6aacfd7"
+  },
+  "_source": "git://github.com/aurelia/html-template-element.git",
+  "_target": "^0.2.0",
+  "_originalSource": "aurelia-html-template-element"
+}

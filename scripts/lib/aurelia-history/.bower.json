@@ -1,0 +1,28 @@
+{
+  "name": "aurelia-history",
+  "version": "0.6.1",
+  "description": "An abstract module which specifies the interface for history implementations used by a router.",
+  "keywords": [
+    "aurelia",
+    "history",
+    "router"
+  ],
+  "homepage": "http://aurelia.io",
+  "license": "MIT",
+  "authors": [
+    "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aurelia/history"
+  },
+  "_release": "0.6.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.6.1",
+    "commit": "7461b74ae5ebdaba501317c324577a07de2ab037"
+  },
+  "_source": "git://github.com/aurelia/history.git",
+  "_target": "^0.6.1",
+  "_originalSource": "aurelia-history"
+}

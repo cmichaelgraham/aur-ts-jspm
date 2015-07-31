@@ -1,0 +1,31 @@
+{
+  "name": "aurelia-metadata",
+  "version": "0.7.1",
+  "description": "Utilities for reading and writing the metadata of JavaScript functions.",
+  "keywords": [
+    "aurelia",
+    "metadata",
+    "annotations"
+  ],
+  "homepage": "http://aurelia.io",
+  "license": "MIT",
+  "authors": [
+    "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aurelia/metadata"
+  },
+  "dependencies": {
+    "core-js": "zloirock/core-js"
+  },
+  "_release": "0.7.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.7.1",
+    "commit": "4ac5106d112669a4a296687fca9f42dab6ca5358"
+  },
+  "_source": "git://github.com/aurelia/metadata.git",
+  "_target": "^0.7.1",
+  "_originalSource": "aurelia-metadata"
+}

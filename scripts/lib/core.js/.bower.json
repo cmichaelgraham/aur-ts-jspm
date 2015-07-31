@@ -1,0 +1,43 @@
+{
+  "name": "core.js",
+  "main": "client/core.js",
+  "version": "1.0.0",
+  "description": "Standard Library",
+  "keywords": [
+    "ES6",
+    "ECMAScript 6",
+    "ES7",
+    "ECMAScript 7",
+    "Map",
+    "Set",
+    "WeakMap",
+    "WeakSet",
+    "Dict",
+    "Promise",
+    "Symbol",
+    "console"
+  ],
+  "authors": [
+    "Denis Pushkarev <zloirock@zloirock.ru> (http://zloirock.ru/)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/zloirock/core-js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zloirock/core-js.git"
+  },
+  "ignore": [
+    "build",
+    "node_modules",
+    "tests"
+  ],
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.0",
+    "commit": "a6f288e8fa62dc1826f9f86b5cc49e2767b727ee"
+  },
+  "_source": "git://github.com/zloirock/core-js.git",
+  "_target": "*",
+  "_originalSource": "core.js"
+}

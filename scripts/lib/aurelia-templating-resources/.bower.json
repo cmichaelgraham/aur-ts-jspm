@@ -1,0 +1,36 @@
+{
+  "name": "aurelia-templating-resources",
+  "version": "0.13.3",
+  "description": "A standard set of behaviors, converters and other resources for use with the Aurelia templating library.",
+  "keywords": [
+    "aurelia",
+    "templating",
+    "html"
+  ],
+  "homepage": "http://aurelia.io",
+  "license": "MIT",
+  "authors": [
+    "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aurelia/templating-resources"
+  },
+  "dependencies": {
+    "aurelia-binding": "^0.8.3",
+    "aurelia-dependency-injection": "^0.9.1",
+    "aurelia-logging": "^0.6.2",
+    "aurelia-task-queue": "^0.6.1",
+    "aurelia-templating": "^0.13.12",
+    "core-js": "zloirock/core-js"
+  },
+  "_release": "0.13.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.13.3",
+    "commit": "899f49b2fe515661a2539e11c2b52a20929d750a"
+  },
+  "_source": "git://github.com/aurelia/templating-resources.git",
+  "_target": "^0.13.2",
+  "_originalSource": "aurelia-templating-resources"
+}

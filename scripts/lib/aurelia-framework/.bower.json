@@ -1,0 +1,39 @@
+{
+  "name": "aurelia-framework",
+  "version": "0.13.4",
+  "description": "The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.",
+  "keywords": [
+    "aurelia",
+    "framework",
+    "spa"
+  ],
+  "homepage": "http://aurelia.io",
+  "license": "MIT",
+  "authors": [
+    "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aurelia/framework"
+  },
+  "dependencies": {
+    "aurelia-binding": "^0.8.3",
+    "aurelia-dependency-injection": "^0.9.1",
+    "aurelia-loader": "^0.8.3",
+    "aurelia-logging": "^0.6.2",
+    "aurelia-metadata": "^0.7.1",
+    "aurelia-path": "^0.8.1",
+    "aurelia-task-queue": "^0.6.1",
+    "aurelia-templating": "^0.13.12",
+    "core-js": "zloirock/core-js"
+  },
+  "_release": "0.13.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.13.4",
+    "commit": "f7e93af83bc7ac73b68d5e56366eee12b3b6b498"
+  },
+  "_source": "git://github.com/aurelia/framework.git",
+  "_target": "*",
+  "_originalSource": "aurelia-framework"
+}
